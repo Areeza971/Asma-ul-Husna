@@ -1,1 +1,794 @@
-
+[
+  {
+    "number": 1,
+    "arabic": "الرَّحْمَنُ",
+    "transliteration": "Ar-Rahman",
+    "meaning": "The Beneficent",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 2,
+    "arabic": "الرَّحِيمُ",
+    "transliteration": "Ar-Raheem",
+    "meaning": "The Merciful",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 3,
+    "arabic": "الْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "meaning": "The King",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 4,
+    "arabic": "الْقُدُّوسُ",
+    "transliteration": "Al-Quddus",
+    "meaning": "The Most Sacred",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 5,
+    "arabic": "السَّلاَمُ",
+    "transliteration": "As-Salam",
+    "meaning": "The Source of Peace",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 6,
+    "arabic": "الْمُؤْمِنُ",
+    "transliteration": "Al-Mu'min",
+    "meaning": "The Giver of Faith and Security",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 7,
+    "arabic": "الْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "meaning": "The Preserver of Safety",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 8,
+    "arabic": "الْعَزِيزُ",
+    "transliteration": "Al-Aziz",
+    "meaning": "The Almighty",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 9,
+    "arabic": "الْجَبَّارُ",
+    "transliteration": "Al-Jabbar",
+    "meaning": "The Compeller, The Restorer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 10,
+    "arabic": "الْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "meaning": "The Supreme, The Majestic",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 11,
+    "arabic": "الْخَالِقُ",
+    "transliteration": "Al-Khaliq",
+    "meaning": "The Creator, The Maker",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 12,
+    "arabic": "الْبَارِئُ",
+    "transliteration": "Al-Bari",
+    "meaning": "The Evolver",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 13,
+    "arabic": "الْمُصَوِّرُ",
+    "transliteration": "Al-Musawwir",
+    "meaning": "The Fashioner",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 14,
+    "arabic": "الْغَفَّارُ",
+    "transliteration": "Al-Ghaffar",
+    "meaning": "The Constant Forgiver",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 15,
+    "arabic": "الْقَهَّارُ",
+    "transliteration": "Al-Qahhar",
+    "meaning": "The All-Prevailing One",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 16,
+    "arabic": "الْوَهَّابُ",
+    "transliteration": "Al-Wahhab",
+    "meaning": "The Supreme Bestower",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 17,
+    "arabic": "الرَّزَّاقُ",
+    "transliteration": "Ar-Razzaq",
+    "meaning": "The Provider",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 18,
+    "arabic": "الْفَتَّاحُ",
+    "transliteration": "Al-Fattah",
+    "meaning": "The Opener",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 19,
+    "arabic": "الْعَلِيمُ",
+    "transliteration": "Al-Alim",
+    "meaning": "The All-Knowing",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 20,
+    "arabic": "الْقَابِضُ",
+    "transliteration": "Al-Qabid",
+    "meaning": "The Withholder",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 21,
+    "arabic": "الْبَاسِطُ",
+    "transliteration": "Al-Basit",
+    "meaning": "The Extender",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 22,
+    "arabic": "الْخَافِضُ",
+    "transliteration": "Al-Khafid",
+    "meaning": "The Reducer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 23,
+    "arabic": "الرَّافِعُ",
+    "transliteration": "Ar-Rafi",
+    "meaning": "The Exalter",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 24,
+    "arabic": "الْمُعِزُّ",
+    "transliteration": "Al-Mu'izz",
+    "meaning": "The Honourer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 25,
+    "arabic": "الْمُذِلُّ",
+    "transliteration": "Al-Mudhill",
+    "meaning": "The One Who Humbles",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 26,
+    "arabic": "السَّمِيعُ",
+    "transliteration": "As-Sami",
+    "meaning": "The All-Hearing",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 27,
+    "arabic": "الْبَصِيرُ",
+    "transliteration": "Al-Basir",
+    "meaning": "The All-Seeing",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 28,
+    "arabic": "الْحَكَمُ",
+    "transliteration": "Al-Hakam",
+    "meaning": "The Impartial Judge",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 29,
+    "arabic": "الْعَدْلُ",
+    "transliteration": "Al-Adl",
+    "meaning": "The Utterly Just",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 30,
+    "arabic": "اللَّطِيفُ",
+    "transliteration": "Al-Latif",
+    "meaning": "The Most Gentle",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 31,
+    "arabic": "الْخَبِيرُ",
+    "transliteration": "Al-Khabir",
+    "meaning": "The All-Aware",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 32,
+    "arabic": "الْحَلِيمُ",
+    "transliteration": "Al-Halim",
+    "meaning": "The Most Forbearing",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 33,
+    "arabic": "الْعَظِيمُ",
+    "transliteration": "Al-Azim",
+    "meaning": "The Magnificent",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 34,
+    "arabic": "الْغَفُورُ",
+    "transliteration": "Al-Ghafur",
+    "meaning": "The Great Forgiver",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 35,
+    "arabic": "الشَّكُورُ",
+    "transliteration": "Ash-Shakur",
+    "meaning": "The Most Appreciative",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 36,
+    "arabic": "الْعَلِيُّ",
+    "transliteration": "Al-Aliyy",
+    "meaning": "The Most High",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 37,
+    "arabic": "الْكَبِيرُ",
+    "transliteration": "Al-Kabir",
+    "meaning": "The Most Great",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 38,
+    "arabic": "الْحَفِيظُ",
+    "transliteration": "Al-Hafiz",
+    "meaning": "The Preserver",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 39,
+    "arabic": "الْمُقِيتُ",
+    "transliteration": "Al-Muqit",
+    "meaning": "The Sustainer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 40,
+    "arabic": "الْحَسِيبُ",
+    "transliteration": "Al-Hasib",
+    "meaning": "The Reckoner",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 41,
+    "arabic": "الْجَلِيلُ",
+    "transliteration": "Al-Jalil",
+    "meaning": "The Majestic",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 42,
+    "arabic": "الْكَرِيمُ",
+    "transliteration": "Al-Karim",
+    "meaning": "The Most Generous",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 43,
+    "arabic": "الرَّقِيبُ",
+    "transliteration": "Ar-Raqib",
+    "meaning": "The Watchful",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 44,
+    "arabic": "الْمُجِيبُ",
+    "transliteration": "Al-Mujib",
+    "meaning": "The Responsive One",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 45,
+    "arabic": "الْوَاسِعُ",
+    "transliteration": "Al-Wasi",
+    "meaning": "The All-Encompassing",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 46,
+    "arabic": "الْحَكِيمُ",
+    "transliteration": "Al-Hakim",
+    "meaning": "The All-Wise",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 47,
+    "arabic": "الْوَدُودُ",
+    "transliteration": "Al-Wadud",
+    "meaning": "The Most Loving",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 48,
+    "arabic": "الْمَجِيدُ",
+    "transliteration": "Al-Majeed",
+    "meaning": "The Glorious",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 49,
+    "arabic": "الْبَاعِثُ",
+    "transliteration": "Al-Ba'ith",
+    "meaning": "The Resurrector",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 50,
+    "arabic": "الشَّهِيدُ",
+    "transliteration": "Ash-Shahid",
+    "meaning": "The Witness",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 51,
+    "arabic": "الْحَقُّ",
+    "transliteration": "Al-Haqq",
+    "meaning": "The Absolute Truth",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 52,
+    "arabic": "الْوَكِيلُ",
+    "transliteration": "Al-Wakil",
+    "meaning": "The Trustee",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 53,
+    "arabic": "الْقَوِيُّ",
+    "transliteration": "Al-Qawiyy",
+    "meaning": "The All-Strong",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 54,
+    "arabic": "الْمَتِينُ",
+    "transliteration": "Al-Matin",
+    "meaning": "The Firm, The Steadfast",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 55,
+    "arabic": "الْوَلِيُّ",
+    "transliteration": "Al-Waliyy",
+    "meaning": "The Protecting Friend",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 56,
+    "arabic": "الْحَمِيدُ",
+    "transliteration": "Al-Hamid",
+    "meaning": "The Praiseworthy",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 57,
+    "arabic": "الْمُحْصِي",
+    "transliteration": "Al-Muhsi",
+    "meaning": "The All-Enumerating",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 58,
+    "arabic": "الْمُبْدِئُ",
+    "transliteration": "Al-Mubdi",
+    "meaning": "The Originator",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 59,
+    "arabic": "الْمُعِيدُ",
+    "transliteration": "Al-Mu'id",
+    "meaning": "The Restorer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 60,
+    "arabic": "الْمُحْيِي",
+    "transliteration": "Al-Muhyi",
+    "meaning": "The Giver of Life",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 61,
+    "arabic": "الْمُمِيتُ",
+    "transliteration": "Al-Mumit",
+    "meaning": "The One Who Causes Death",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 62,
+    "arabic": "الْحَيُّ",
+    "transliteration": "Al-Hayy",
+    "meaning": "The Ever-Living",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 63,
+    "arabic": "الْقَيُّومُ",
+    "transliteration": "Al-Qayyum",
+    "meaning": "The Self-Subsisting Sustainer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 64,
+    "arabic": "الْوَاجِدُ",
+    "transliteration": "Al-Wajid",
+    "meaning": "The Perceiver",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 65,
+    "arabic": "الْمَاجِدُ",
+    "transliteration": "Al-Maajid",
+    "meaning": "The Illustrious",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 66,
+    "arabic": "الْوَاحِدُ",
+    "transliteration": "Al-Wahid",
+    "meaning": "The One",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 67,
+    "arabic": "الْأَحَدُ",
+    "transliteration": "Al-Ahad",
+    "meaning": "The Unique, The Only One",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 68,
+    "arabic": "الصَّمَدُ",
+    "transliteration": "As-Samad",
+    "meaning": "The Eternal, The One Sought by All",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 69,
+    "arabic": "الْقَادِرُ",
+    "transliteration": "Al-Qadir",
+    "meaning": "The Omnipotent",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 70,
+    "arabic": "الْمُقْتَدِرُ",
+    "transliteration": "Al-Muqtadir",
+    "meaning": "The All-Powerful",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 71,
+    "arabic": "الْمُقَدِّمُ",
+    "transliteration": "Al-Muqaddim",
+    "meaning": "The Expediter",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 72,
+    "arabic": "الْمُؤَخِّرُ",
+    "transliteration": "Al-Mu'akhkhir",
+    "meaning": "The Delayer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 73,
+    "arabic": "الْأَوَّلُ",
+    "transliteration": "Al-Awwal",
+    "meaning": "The First",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 74,
+    "arabic": "الْآخِرُ",
+    "transliteration": "Al-Akhir",
+    "meaning": "The Last",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 75,
+    "arabic": "الظَّاهِرُ",
+    "transliteration": "Az-Zahir",
+    "meaning": "The Manifest",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 76,
+    "arabic": "الْبَاطِنُ",
+    "transliteration": "Al-Batin",
+    "meaning": "The Hidden",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 77,
+    "arabic": "الْوَالِي",
+    "transliteration": "Al-Waali",
+    "meaning": "The Sole Governor",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 78,
+    "arabic": "الْمُتَعَالِي",
+    "transliteration": "Al-Muta'ali",
+    "meaning": "The Most Exalted",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 79,
+    "arabic": "الْبَرُّ",
+    "transliteration": "Al-Barr",
+    "meaning": "The Source of Goodness",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 80,
+    "arabic": "التَّوَّابُ",
+    "transliteration": "At-Tawwab",
+    "meaning": "The Ever-Pardoning",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 81,
+    "arabic": "الْمُنْتَقِمُ",
+    "transliteration": "Al-Muntaqim",
+    "meaning": "The Avenger",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 82,
+    "arabic": "الْعَفُوُّ",
+    "transliteration": "Al-Afuww",
+    "meaning": "The Pardoner",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 83,
+    "arabic": "الرَّؤُوفُ",
+    "transliteration": "Ar-Ra'uf",
+    "meaning": "The Most Kind",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 84,
+    "arabic": "مَالِكُ الْمُلْكِ",
+    "transliteration": "Malik-ul-Mulk",
+    "meaning": "Master of the Kingdom",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 85,
+    "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "meaning": "Lord of Majesty and Generosity",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 86,
+    "arabic": "الْمُقْسِطُ",
+    "transliteration": "Al-Muqsit",
+    "meaning": "The Just One",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 87,
+    "arabic": "الْجَامِعُ",
+    "transliteration": "Al-Jami",
+    "meaning": "The Gatherer",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 88,
+    "arabic": "الْغَنِيُّ",
+    "transliteration": "Al-Ghaniyy",
+    "meaning": "The Self-Sufficient",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 89,
+    "arabic": "الْمُغْنِيُّ",
+    "transliteration": "Al-Mughni",
+    "meaning": "The Enricher",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 90,
+    "arabic": "الْمَانِعُ",
+    "transliteration": "Al-Mani",
+    "meaning": "The Withholder",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 91,
+    "arabic": "الضَّارُّ",
+    "transliteration": "Ad-Darr",
+    "meaning": "The One Who Allows Adversity",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 92,
+    "arabic": "النَّافِعُ",
+    "transliteration": "An-Nafi",
+    "meaning": "The Benefactor",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 93,
+    "arabic": "النُّورُ",
+    "transliteration": "An-Nur",
+    "meaning": "The Light",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 94,
+    "arabic": "الْهَادِي",
+    "transliteration": "Al-Hadi",
+    "meaning": "The Guide",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 95,
+    "arabic": "الْبَدِيعُ",
+    "transliteration": "Al-Badi",
+    "meaning": "The Incomparable Originator",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 96,
+    "arabic": "الْبَاقِي",
+    "transliteration": "Al-Baqi",
+    "meaning": "The Everlasting",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 97,
+    "arabic": "الْوَارِثُ",
+    "transliteration": "Al-Warith",
+    "meaning": "The Inheritor",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 98,
+    "arabic": "الرَّشِيدُ",
+    "transliteration": "Ar-Rashid",
+    "meaning": "The Guide to the Right Path",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  },
+  {
+    "number": 99,
+    "arabic": "الصَّبُورُ",
+    "transliteration": "As-Sabur",
+    "meaning": "The Most Patient",
+    "reflection": "Take a moment to reflect on this name and what it teaches you about Allah.",
+    "action": "Learn this name, consider its meaning in your du'a, and revisit it today."
+  }
+]
