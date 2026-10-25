@@ -1,0 +1,908 @@
+
+:root {
+  --paper: #F8F6EF;
+  --white: #FFFDF7;
+  --green: #245343;
+  --green-dark: #183D32;
+  --green-soft: #E8EEE5;
+  --gold: #C5A66B;
+  --gold-light: #E6D8B6;
+  --ink: #263B32;
+  --muted: #8A8B7D;
+  --line: #E6E3D8;
+  --shadow: 0 20px 60px rgba(36, 77, 59, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "DM Sans", sans-serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 4px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.navbar {
+  min-height: 78px;
+  padding: 16px 8%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(248, 246, 239, 0.94);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--green);
+  text-decoration: none;
+  font-family: "Amiri", serif;
+  font-size: 25px;
+}
+
+.brand-symbol {
+  color: var(--gold);
+  font-size: 18px;
+}
+
+.navbar nav {
+  display: flex;
+  gap: 28px;
+}
+
+.navbar nav a {
+  text-decoration: none;
+  color: var(--ink);
+  font-size: 12px;
+  transition: color 180ms;
+}
+
+.navbar nav a:hover {
+  color: var(--gold);
+}
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 76px 20px 84px;
+  text-align: center;
+}
+
+.eyebrow {
+  margin: 0;
+  color: #A88A51;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  line-height: 1.8;
+}
+
+h1 {
+  margin: 25px 0 18px;
+  color: var(--green);
+  font-size: clamp(42px, 6vw, 72px);
+  font-weight: 500;
+  letter-spacing: -2.5px;
+  line-height: 1.08;
+}
+
+h1 span {
+  display: block;
+  margin-top: 8px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -2px;
+}
+
+.intro {
+  max-width: 470px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.9;
+}
+
+.hero-decoration {
+  position: absolute;
+  color: var(--gold-light);
+  pointer-events: none;
+}
+
+.decoration-one {
+  top: 160px;
+  left: 12%;
+  font-size: 45px;
+}
+
+.decoration-two {
+  top: 300px;
+  right: 12%;
+  font-size: 30px;
+}
+
+.featured-card {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  width: min(100%, 440px);
+  min-height: 490px;
+  margin: 42px auto 26px;
+  padding: 30px 30px 22px;
+  border: 1px solid #C5A66B;
+  border-radius: 220px 220px 18px 18px;
+  background:
+    radial-gradient(ellipse at 50% 25%, #f0ead6 0%, transparent 60%),
+    var(--white);
+  box-shadow: var(--shadow);
+  animation: card-appear 500ms ease both;
+}
+
+.featured-card::before {
+  position: absolute;
+  z-index: -1;
+  inset: 10px;
+  border: 1px solid rgba(197, 166, 107, 0.23);
+  border-radius: 210px 210px 12px 12px;
+  content: "";
+  pointer-events: none;
+}
+
+.card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-label {
+  color: var(--muted);
+  font-size: 9px;
+  letter-spacing: 1.8px;
+}
+
+.card-star {
+  color: var(--gold);
+  font-size: 23px;
+}
+
+.card-art {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  margin-top: 26px;
+  color: var(--gold);
+  font-size: 12px;
+}
+
+.arabic-name {
+  margin: 14px 0 0;
+  color: var(--green);
+  font-family: "Amiri", serif;
+  font-size: clamp(48px, 8vw, 70px);
+  font-weight: 700;
+  line-height: 1.7;
+}
+
+.featured-card h2 {
+  margin: 0;
+  color: var(--green);
+  font-family: Georgia, serif;
+  font-size: 29px;
+  font-weight: 400;
+}
+
+.meaning {
+  margin: 9px 0;
+  color: #A88A51;
+  font-size: 13px;
+}
+
+.gold-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 20px auto;
+  color: var(--gold);
+  font-size: 13px;
+}
+
+.gold-divider span {
+  width: 48px;
+  height: 1px;
+  background: var(--gold-light);
+}
+
+.reflection {
+  max-width: 310px;
+  margin: 0 auto;
+  color: var(--ink);
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.intention {
+  max-width: 300px;
+  margin: 18px auto 0;
+  padding: 12px 15px;
+  border-radius: 10px;
+  background: rgba(232, 238, 229, 0.72);
+}
+
+.intention-label {
+  color: var(--green);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.intention p {
+  margin: 7px 0 0;
+  color: #526356;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.icon-button {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: white;
+  color: var(--green);
+  font-size: 23px;
+  transition: transform 180ms, background 180ms;
+}
+
+.icon-button:hover {
+  transform: scale(1.06);
+}
+
+.icon-button[aria-pressed="true"] {
+  border-color: #e8c8c0;
+  background: #fff0ed;
+  color: #a54b48;
+}
+
+.shuffle-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 11px;
+  padding: 15px 27px;
+  border: 1px solid var(--green);
+  border-radius: 40px;
+  background: var(--green);
+  color: white;
+  font-size: 13px;
+  transition: transform 180ms, background 180ms, box-shadow 180ms;
+}
+
+.shuffle-button:hover {
+  transform: translateY(-2px);
+  background: var(--green-dark);
+  box-shadow: 0 8px 20px rgba(36, 77, 59, 0.15);
+}
+
+.shuffle-icon {
+  font-size: 19px;
+}
+
+.shuffle-note {
+  margin-top: 15px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.collection {
+  padding: 80px 8%;
+  background: var(--white);
+  border-top: 1px solid var(--line);
+}
+
+.section-heading {
+  text-align: center;
+}
+
+.section-heading h2,
+.about h2 {
+  margin: 13px 0;
+  color: var(--green);
+  font-family: Georgia, serif;
+  font-size: clamp(34px, 5vw, 48px);
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+.section-heading > p:last-child {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.collection-tools {
+  max-width: 1080px;
+  margin: 35px auto 23px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 600px;
+  margin: 0 auto 24px;
+  padding: 13px 19px;
+  border: 1px solid var(--line);
+  border-radius: 35px;
+  background: var(--paper);
+}
+
+.search-box > span {
+  color: var(--gold);
+  font-size: 23px;
+}
+
+.search-box input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: none;
+  background: transparent;
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.search-box input:focus-visible {
+  outline: none;
+}
+
+.collection-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.filter-button {
+  padding: 9px 15px;
+  border: 1px solid var(--line);
+  border-radius: 25px;
+  background: white;
+  color: var(--green);
+  font-size: 12px;
+  transition: background 180ms;
+}
+
+.filter-button[aria-pressed="true"] {
+  border-color: var(--green);
+  background: var(--green-soft);
+}
+
+.name-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.name-tile {
+  position: relative;
+  min-width: 0;
+  padding: 22px 13px 20px;
+  border: 1px solid var(--line);
+  border-radius: 15px;
+  background: var(--paper);
+  text-align: center;
+  transition: transform 180ms, border-color 180ms, box-shadow 180ms;
+}
+
+.name-tile:hover {
+  transform: translateY(-4px);
+  border-color: var(--gold);
+  box-shadow: 0 10px 25px rgba(36, 77, 59, 0.06);
+}
+
+.name-tile:active {
+  transform: translateY(-1px);
+}
+
+.tile-number {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  color: #8A8B7D;
+  font-size: 10px;
+}
+
+.tile-arabic {
+  margin-top: 7px;
+  color: var(--green);
+  font-family: "Amiri", serif;
+  font-size: 36px;
+  line-height: 1.8;
+}
+
+.tile-title {
+  margin: 5px 0 6px;
+  color: var(--green);
+  font-size: 13px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.tile-meaning {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+}
+
+.empty-message {
+  padding: 35px 10px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.about {
+  padding: 75px 20px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 39px;
+}
+
+.about > p:not(.eyebrow) {
+  max-width: 500px;
+  margin: 0 auto 20px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+.text-link {
+  color: var(--green);
+  font-size: 12px;
+  text-underline-offset: 5px;
+}
+
+footer {
+  padding: 32px 20px;
+  border-top: 1px solid var(--line);
+  text-align: center;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.footer-arabic {
+  color: var(--green);
+  font-family: "Amiri", serif;
+  font-size: 24px;
+}
+
+.footer-small {
+  max-width: 520px;
+  margin: 10px auto 0;
+  font-size: 10px;
+}
+
+@keyframes card-appear {
+  from {
+    opacity: 0.65;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (min-width: 1100px) {
+  .name-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .navbar {
+    padding: 14px 5%;
+  }
+
+  .navbar nav {
+    gap: 15px;
+  }
+
+  .brand {
+    font-size: 21px;
+  }
+
+  .hero {
+    padding: 57px 18px 65px;
+  }
+
+  .decoration-one {
+    left: 3%;
+    top: 160px;
+  }
+
+  .decoration-two {
+    right: 4%;
+    top: 290px;
+  }
+
+  .featured-card {
+    padding: 27px 23px 20px;
+    min-height: 470px;
+  }
+
+  .collection {
+    padding: 60px 5%;
+  }
+
+  .name-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 11px;
+  }
+
+  .name-tile {
+    padding: 20px 7px;
+  }
+
+  .tile-arabic {
+    font-size: 31px;
+  }
+
+  .tile-title {
+    font-size: 12px;
+  }
+
+  .tile-meaning {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 380px) {
+  .navbar nav {
+    gap: 10px;
+  }
+
+  .navbar nav a {
+    font-size: 10px;
+  }
+
+  .brand {
+    gap: 5px;
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 39px;
+  }
+
+  .featured-card {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .card-label {
+    font-size: 8px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+
+/* Keep the reflection label centered and fully visible */
+.featured-card .card-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.featured-card .card-label {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0 12px;
+  text-align: center;
+  line-height: 1.6;
+  letter-spacing: 1.8px;
+  overflow-wrap: anywhere;
+}
+
+
+/* GREEN THEME — WHOLE WEBSITE */
+:root {
+    --paper: #245343;
+    --white: #183D32;
+    --green: #F8F6EF;
+    --green-dark: #E8D8B5;
+    --green-soft: #315F4D;
+    --gold: #C5A66B;
+    --gold-light: #DCC99B;
+    --ink: #FFFDF7;
+    --muted: #D1DCCF;
+    --line: rgba(220, 201, 155, 0.3);
+    --shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+}
+
+/* Main page background */
+body {
+    background: var(--paper);
+    color: var(--ink);
+}
+
+/* Navigation */
+.navbar {
+    background: #183D32;
+    border-color: var(--line);
+}
+
+/* Hero and headings */
+h1,
+.section-heading h2,
+.about h2 {
+    color: #FFFDF7;
+}
+
+/* Featured card stays light for contrast */
+.featured-card {
+    background: linear-gradient(145deg, #FFFDF7, #F0EBDD);
+    border-color: var(--gold);
+    color: #263B32;
+}
+
+.featured-card .arabic-name,
+.featured-card h2 {
+    color: #245343;
+}
+
+/* Names collection */
+.collection {
+    background: #183D32;
+    border-color: var(--line);
+}
+
+.name-tile {
+    background: #245343;
+    border-color: var(--line);
+}
+
+.tile-arabic,
+.tile-title {
+    color: #FFFDF7;
+}
+
+/* Search field */
+.search-box {
+    background: #245343;
+    border-color: var(--line);
+}
+
+.search-box input {
+    color: #FFFDF7;
+}
+
+.search-box input::placeholder {
+    color: #D1DCCF;
+}
+
+/* Buttons */
+.shuffle-button {
+    background: #C5A66B;
+    border-color: #C5A66B;
+    color: #183D32;
+}
+
+.shuffle-button:hover {
+    background: #DCC99B;
+}
+
+/* Footer */
+footer {
+    background: #183D32;
+    border-color: var(--line);
+}
+
+
+/* FIX TEXT VISIBILITY — GREEN THEME */
+
+/* Main green background */
+body {
+    background: #245343;
+    color: #FFFDF7;
+}
+
+/* Navigation */
+.navbar {
+    background: #183D32;
+}
+
+.brand,
+.navbar nav a {
+    color: #FFFDF7;
+}
+
+/* Hero text */
+h1,
+.section-heading h2,
+.about h2 {
+    color: #FFFDF7;
+}
+
+.intro,
+.section-heading > p:last-child,
+.about > p:not(.eyebrow),
+.shuffle-note {
+    color: #E0E9DF;
+}
+
+.eyebrow {
+    color: #E6D2A5;
+}
+
+/* Featured card: dark text on ivory */
+.featured-card {
+    background: #FFFDF7;
+    color: #263B32;
+}
+
+.featured-card .eyebrow,
+.card-label,
+.reflection {
+    color: #263B32;
+}
+
+.arabic-name,
+.featured-card h2 {
+    color: #245343;
+}
+
+.meaning {
+    color: #80632F;
+}
+
+.intention {
+    background: #E8EEE5;
+}
+
+.intention-label {
+    color: #183D32;
+}
+
+.intention p {
+    color: #354C3C;
+}
+
+/* Names collection */
+.collection {
+    background: #183D32;
+}
+
+.name-tile {
+    background: #245343;
+    border-color: #648272;
+}
+
+.tile-arabic,
+.tile-title {
+    color: #FFFDF7;
+}
+
+.tile-meaning,
+.tile-number {
+    color: #E0E9DF;
+}
+
+/* Search */
+.search-box {
+    background: #FFFDF7;
+}
+
+.search-box input {
+    color: #263B32;
+}
+
+.search-box input::placeholder {
+    color: #626D63;
+}
+
+/* Favorite and filter buttons */
+.filter-button {
+    background: #FFFDF7;
+    color: #183D32;
+}
+
+.filter-button[aria-pressed="true"] {
+    background: #E6D8B6;
+    color: #183D32;
+}
+
+/* Shuffle button */
+.shuffle-button {
+    background: #C5A66B;
+    border-color: #C5A66B;
+    color: #183D32;
+}
+
+/* Footer */
+footer {
+    background: #183D32;
+    color: #E0E9DF;
+}
+
+.footer-arabic {
+    color: #FFFDF7;
+}
+
+
+/* Make the 1/99 counter clearly visible */
+.card-footer {
+    color: #263B32;
+}
+
+.card-footer span,
+.card-footer p {
+    color: #263B32;
+    font-weight: 600;
+}
+
+/* If the counter is inside the ivory featured card */
+.featured-card .card-footer {
+    color: #263B32;
+}

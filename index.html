@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f8f6ef">
+  <meta name="description" content="Discover the 99 Beautiful Names of Allah through elegant cards and reflection.">
+
+  <title>Asma ul Husna | The Beautiful Names of Allah</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+  <header class="navbar">
+    <a class="brand" href="#" aria-label="Asma ul Husna home">
+      <span class="brand-symbol">✦</span>
+      أسماء الله الحسنى
+    </a>
+
+    <nav>
+      <a href="#collection">The 99 Names</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-decoration decoration-one">✧</div>
+      <div class="hero-decoration decoration-two">✦</div>
+
+      <p class="eyebrow">A MOMENT OF REMEMBRANCE</p>
+
+      <h1>
+        The Beautiful
+        <span>Names of Allah</span>
+      </h1>
+
+      <p class="intro">
+        Ninety-nine beautiful names. A journey of remembrance,
+        reflection, and a closer understanding of their meanings.
+      </p>
+
+      <div class="featured-card" id="featured">
+        <div class="card-top">
+          <span class="card-label">YOUR MOMENT OF REFLECTION</span>
+          <span class="card-star">✧</span>
+        </div>
+
+        <div class="card-art" aria-hidden="true">
+          <span>✧</span>
+          <span>✦</span>
+          <span>✧</span>
+        </div>
+
+        <p class="arabic-name" id="arabicName" lang="ar" dir="rtl">
+          الرَّحْمَنُ
+        </p>
+
+        <h2 id="englishName">Ar-Rahman</h2>
+        <p class="meaning" id="meaning">The Beneficent</p>
+
+        <div class="gold-divider">
+          <span></span>
+          ✦
+          <span></span>
+        </div>
+
+        <p class="reflection" id="reflection">
+          Take a moment to reflect on this beautiful name.
+        </p>
+
+        <div class="intention">
+          <span class="intention-label">A MOMENT TO PRACTISE</span>
+          <p id="action">Show kindness to someone today.</p>
+        </div>
+
+        <div class="card-footer">
+          <span id="nameNumber">01 / 99</span>
+          <button
+            type="button"
+            class="icon-button"
+            id="favoriteButton"
+            aria-label="Add to favorites"
+            aria-pressed="false"
+          >♡</button>
+        </div>
+      </div>
+
+      <button type="button" class="shuffle-button" id="shuffleButton">
+        <span class="shuffle-icon" aria-hidden="true">⤨</span>
+        Discover a Name
+      </button>
+
+      <p class="shuffle-note">
+        Let each name become a moment of reflection.
+      </p>
+    </section>
+
+    <section class="collection" id="collection">
+      <div class="section-heading">
+        <p class="eyebrow">EXPLORE & REMEMBER</p>
+        <h2>The 99 Names</h2>
+        <p>Discover their meanings, one name at a time.</p>
+      </div>
+
+      <div class="collection-tools">
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input
+            type="search"
+            id="searchInput"
+            placeholder="Search Arabic names, transliteration or meaning..."
+            aria-label="Search the names"
+          >
+        </label>
+
+        <div class="collection-info">
+          <span id="resultCount" aria-live="polite">Loading names...</span>
+
+          <button
+            type="button"
+            id="favoritesFilter"
+            class="filter-button"
+            aria-pressed="false"
+          >♡ Favorites</button>
+        </div>
+      </div>
+
+      <div class="name-grid" id="nameGrid"></div>
+
+      <p class="empty-message" id="emptyMessage" hidden>
+        No names found. Try another search.
+      </p>
+    </section>
+
+    <section class="about" id="about">
+      <p class="eyebrow">REMEMBER WITH INTENTION</p>
+      <h2>More than a name.</h2>
+      <p>
+        Explore the meanings of Allah's beautiful names,
+        reflect on them, and make remembrance part of everyday life.
+      </p>
+      <a href="#collection" class="text-link">Explore the collection ↗</a>
+    </section>
+  </main>
+
+  <footer>
+    <p class="footer-arabic" lang="ar" dir="rtl">
+      سُبْحَانَ اللَّهِ وَبِحَمْدِهِ
+    </p>
+    <p>Created with care and remembrance.</p>
+    <p class="footer-small">
+      English meanings and reflections are provided for learning
+      and should be checked against reliable Islamic references.
+    </p>
+  </footer>
+</body>
+</html>
